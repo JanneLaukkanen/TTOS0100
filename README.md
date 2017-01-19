@@ -4,7 +4,7 @@ This is my readme.
 
 ## Alaotsikko
 
-![](http://www02.oph.fi/etalukio/kuvataide/kurssi1/kuvat/kuva17_1.jpg)
+![Cooldude](http://www02.oph.fi/etalukio/kuvataide/kurssi1/kuvat/kuva17_1.jpg)
 
 ### Alaotsikko
 
