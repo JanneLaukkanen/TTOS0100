@@ -9,3 +9,10 @@ This is my readme.
 ### Alaotsikko
 
 [Uutisia](http://www.iltalehti.fi/)
+
+#### Alaotsikko
+
+| Koirarotu | Kpl |
+|:----------|----:|
+| Suomenpystykorva | 30 |
+| Snautseri | 120 |
