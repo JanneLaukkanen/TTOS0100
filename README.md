@@ -4,7 +4,7 @@ This is my readme.
 
 ## Alaotsikko
 
-aishfoi
+![](http://www.uutisvuoksi.fi/f/b/b8/big_21238142.jpg)
 
 ### Alaotsikko
 
